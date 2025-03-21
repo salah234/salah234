@@ -1,6 +1,9 @@
 # 💫About Me :
-Working on ML/AI, Backend Engineering and DevOps Engineering
-Currently learning more Backend Engineering and Deep Learning
+💻 College Student studying Computer Science and Data Science
+🚀 Passionate about AI/ML (Deep Learning, NLP, Gen AI), Full-Stack
+👀 Currently diving deeper in both Full-Stack and Deep Learning
+🛠️ Interested & Learning about building Full-Stack AI powered web apps.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s04m) 

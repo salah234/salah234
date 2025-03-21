@@ -1,5 +1,5 @@
 # 💫About Me :
-💻 College Student studying Computer Science and Data Science
+💻 College Student studying Computer Science and Data Science.
 🚀 Passionate about AI/ML (Deep Learning, NLP, Gen AI), Full-Stack
 👀 Currently diving deeper in both Full-Stack and Deep Learning
 🛠️ Interested & Learning about building Full-Stack AI powered web apps.
